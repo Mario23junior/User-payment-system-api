@@ -14,5 +14,4 @@
  \__,_| .__/|_|                                 
       |_|                                       
                                                                  
-  Application Version:${application.version} ${AnsiColor.RED} :: Spring Boot${spring-boot.formatted-version} :: ${AnsiColor.RED}
-  
+Application Version:${application.version} ${AnsiColor.RED} :: Spring Boot${spring-boot.formatted-version} :: ${AnsiColor.RED}  
